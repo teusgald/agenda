@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wM4qiuX8Da+uPmRIOKPwsqEWnF/N/XNkLwBh+SWwqGdZliSEYVudaDDBpSmhILD61QIZGPSP7nGPF+X0q5fI0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\SELLERMVC\\SELLERMVC\\SELLERMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
