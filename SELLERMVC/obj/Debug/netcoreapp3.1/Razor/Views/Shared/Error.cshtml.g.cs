@@ -21,13 +21,13 @@ using SELLERMVC;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\User\source\repos\SELLERMVC\SELLERMVC\Views\_ViewImports.cshtml"
-using SELLERMVC.Models;
+using SELLERMVC.Models.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"104460742407d9b87c5ca9297f6558b15b7f8ced", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ef0d146fa4bd12bc1f87f5b4de8ae942be52da13", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
