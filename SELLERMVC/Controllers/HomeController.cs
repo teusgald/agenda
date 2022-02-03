@@ -25,6 +25,8 @@ namespace SELLERMVC.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["frase"] = "Aprendi agora no curso";
+            ViewData["email"] = "mateus.gald@gmail.com";
             return View();
         }
 
