@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\SELLERMVC\SELLERMVC\obj\Debug\netcoreapp2.1\SELLERMVC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SELLERMVC\SELLERMVC\obj\Debug\netcoreapp2.1\SELLERMVC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SELLERMVC\SELLERMVC\obj\Debug\netcoreapp2.1\SELLERMVC.AssemblyInfo.cs
+C:\Users\User\source\repos\SELLERMVC\SELLERMVC\obj\Debug\netcoreapp2.1\SELLERMVC.csproj.CoreCompileInputs.cache
